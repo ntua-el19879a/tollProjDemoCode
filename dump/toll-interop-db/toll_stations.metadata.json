@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"TollID":{"$numberInt":"1"}},"name":"TollID_1","unique":true}],"uuid":"b5f02ec6081f487cae45188f3412ab27","collectionName":"toll_stations","type":"collection"}
